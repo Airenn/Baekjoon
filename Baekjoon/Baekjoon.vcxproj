@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test folder\소스.cpp" />
+    <ClCompile Include="입출력과 사칙연산\1000.c" />
+    <ClCompile Include="입출력과 사칙연산\10171.c" />
+    <ClCompile Include="입출력과 사칙연산\10172.c" />
+    <ClCompile Include="입출력과 사칙연산\10718.c" />
+    <ClCompile Include="입출력과 사칙연산\2257.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
