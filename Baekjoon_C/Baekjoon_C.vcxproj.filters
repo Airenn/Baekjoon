@@ -14,16 +14,10 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="소스 파일\입출력과 사칙연산">
-      <UniqueIdentifier>{3abeaa1a-0e45-45a0-9ca6-d09b6106f4a6}</UniqueIdentifier>
+      <UniqueIdentifier>{5f0d7e5e-38f4-44c2-9138-39ae86d2b1d8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="입출력과 사칙연산\10172.c">
-      <Filter>소스 파일\입출력과 사칙연산</Filter>
-    </ClCompile>
-    <ClCompile Include="입출력과 사칙연산\10718.c">
-      <Filter>소스 파일\입출력과 사칙연산</Filter>
-    </ClCompile>
     <ClCompile Include="입출력과 사칙연산\1000.c">
       <Filter>소스 파일\입출력과 사칙연산</Filter>
     </ClCompile>
@@ -31,6 +25,12 @@
       <Filter>소스 파일\입출력과 사칙연산</Filter>
     </ClCompile>
     <ClCompile Include="입출력과 사칙연산\10171.c">
+      <Filter>소스 파일\입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="입출력과 사칙연산\10172.c">
+      <Filter>소스 파일\입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="입출력과 사칙연산\10718.c">
       <Filter>소스 파일\입출력과 사칙연산</Filter>
     </ClCompile>
   </ItemGroup>

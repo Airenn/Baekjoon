@@ -18,20 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="입출력과 사칙연산\1000.c" />
-    <ClCompile Include="입출력과 사칙연산\10171.c" />
-    <ClCompile Include="입출력과 사칙연산\10172.c" />
-    <ClCompile Include="입출력과 사칙연산\10718.c" />
-    <ClCompile Include="입출력과 사칙연산\2257.c" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c6aabecd-a74b-41cc-810f-a91d5972623f}</ProjectGuid>
-    <RootNamespace>Baekjoon</RootNamespace>
+    <ProjectGuid>{6f739ca8-472f-4304-8272-3bf1804fe97d}</ProjectGuid>
+    <RootNamespace>BaekjoonC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Baekjoon_C</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -146,6 +138,13 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="입출력과 사칙연산\1000.c" />
+    <ClCompile Include="입출력과 사칙연산\10171.c" />
+    <ClCompile Include="입출력과 사칙연산\10172.c" />
+    <ClCompile Include="입출력과 사칙연산\10718.c" />
+    <ClCompile Include="입출력과 사칙연산\2257.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
