@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\입출력과 사칙연산">
       <UniqueIdentifier>{5f0d7e5e-38f4-44c2-9138-39ae86d2b1d8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\if문">
+      <UniqueIdentifier>{5d28412f-861f-4196-b8ef-feb8e67e9b79}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="입출력과 사칙연산\1000.c">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="입출력과 사칙연산\10718.c">
       <Filter>소스 파일\입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="if문\1330.c">
+      <Filter>소스 파일\if문</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
