@@ -39,5 +39,8 @@
     <ClCompile Include="if문\1330.c">
       <Filter>소스 파일\if문</Filter>
     </ClCompile>
+    <ClCompile Include="입출력과 사칙연산\1001.c">
+      <Filter>소스 파일\입출력과 사칙연산</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
