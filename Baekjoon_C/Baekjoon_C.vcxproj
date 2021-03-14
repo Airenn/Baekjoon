@@ -139,13 +139,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="for문\10871.c" />
+    <ClCompile Include="for문\10950.c" />
+    <ClCompile Include="for문\11021.c" />
+    <ClCompile Include="for문\11022.c" />
+    <ClCompile Include="for문\15552.c" />
+    <ClCompile Include="for문\2438.c" />
+    <ClCompile Include="for문\2439.c" />
+    <ClCompile Include="for문\2739.c" />
+    <ClCompile Include="for문\2741.c" />
+    <ClCompile Include="for문\2742.c" />
+    <ClCompile Include="for문\8393.c" />
     <ClCompile Include="if문\1330.c" />
+    <ClCompile Include="if문\14681.c" />
+    <ClCompile Include="if문\2753.c" />
+    <ClCompile Include="if문\2884.c" />
+    <ClCompile Include="if문\9498.c" />
     <ClCompile Include="입출력과 사칙연산\1000.c" />
     <ClCompile Include="입출력과 사칙연산\1001.c" />
+    <ClCompile Include="입출력과 사칙연산\1008.c" />
     <ClCompile Include="입출력과 사칙연산\10171.c" />
     <ClCompile Include="입출력과 사칙연산\10172.c" />
+    <ClCompile Include="입출력과 사칙연산\10430.c" />
     <ClCompile Include="입출력과 사칙연산\10718.c" />
+    <ClCompile Include="입출력과 사칙연산\10869.c" />
+    <ClCompile Include="입출력과 사칙연산\10998.c" />
     <ClCompile Include="입출력과 사칙연산\2257.c" />
+    <ClCompile Include="입출력과 사칙연산\2588.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
