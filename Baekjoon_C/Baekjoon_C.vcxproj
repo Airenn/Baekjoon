@@ -155,6 +155,9 @@
     <ClCompile Include="if문\2753.c" />
     <ClCompile Include="if문\2884.c" />
     <ClCompile Include="if문\9498.c" />
+    <ClCompile Include="while문\10591.c" />
+    <ClCompile Include="while문\10592.c" />
+    <ClCompile Include="while문\1110.c" />
     <ClCompile Include="입출력과 사칙연산\1000.c" />
     <ClCompile Include="입출력과 사칙연산\1001.c" />
     <ClCompile Include="입출력과 사칙연산\1008.c" />

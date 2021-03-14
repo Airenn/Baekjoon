@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\for문">
       <UniqueIdentifier>{06e918ed-dbac-4de9-8b4a-a0e0638ddacb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\while문">
+      <UniqueIdentifier>{1d8185fc-48c0-48cb-96f3-ac66f54c7215}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="입출력과 사칙연산\1000.c">
@@ -104,6 +107,15 @@
     </ClCompile>
     <ClCompile Include="for문\10871.c">
       <Filter>소스 파일\for문</Filter>
+    </ClCompile>
+    <ClCompile Include="while문\10592.c">
+      <Filter>소스 파일\while문</Filter>
+    </ClCompile>
+    <ClCompile Include="while문\10591.c">
+      <Filter>소스 파일\while문</Filter>
+    </ClCompile>
+    <ClCompile Include="while문\1110.c">
+      <Filter>소스 파일\while문</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
