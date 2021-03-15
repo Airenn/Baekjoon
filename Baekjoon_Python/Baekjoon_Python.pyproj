@@ -22,12 +22,52 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Folder Include="if문\" />
     <Folder Include="입출력과 사칙연산\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="입출력과 사칙연산\2557.py">
+    <None Include="if문\1330.py">
       <SubType>Code</SubType>
-    </Compile>
+    </None>
+    <None Include="if문\2753.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="if문\9498.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\1000.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\1001.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\1008.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\10171.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\10172.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\10430.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\10718.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\10869.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\10998.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\2557.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="입출력과 사칙연산\2588.py">
+      <SubType>Code</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

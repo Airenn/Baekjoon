@@ -25,6 +25,18 @@
     <Filter Include="소스 파일\while문">
       <UniqueIdentifier>{1d8185fc-48c0-48cb-96f3-ac66f54c7215}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1차원 배열">
+      <UniqueIdentifier>{4d23c7ed-7e66-4b2e-97df-334a059c4b4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\함수">
+      <UniqueIdentifier>{993d4e31-8204-430a-8bf0-d2e3fc1f48af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{dd721b85-3015-4c5c-bca7-909436970a03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기본 수학1">
+      <UniqueIdentifier>{dc27e6d2-3bbd-40b0-a1c1-738b65da34ea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="입출력과 사칙연산\1000.c">
@@ -116,6 +128,69 @@
     </ClCompile>
     <ClCompile Include="while문\1110.c">
       <Filter>소스 파일\while문</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열\10818.c">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열\2562.c">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열\2577.c">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열\3052.c">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열\1546.c">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열\8958.c">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원 배열\4344.c">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="함수\15596.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수\4673.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수\1065.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\11654.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\11720.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\10809.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\2675.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\1157.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\1152.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\2908.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\5622.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\2941.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\1316.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열\1712.c">
+      <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
