@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>680874c4-926c-45d5-b872-9655c14e257d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>for문\10950.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="if문\" />
+    <Folder Include="for문\" />
     <Folder Include="입출력과 사칙연산\" />
   </ItemGroup>
   <ItemGroup>
@@ -68,6 +68,21 @@
     <None Include="입출력과 사칙연산\2588.py">
       <SubType>Code</SubType>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="for문\10950.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <None Include="for문\2739.py">
+      <SubType>Code</SubType>
+    </None>
+    <None Include="if문\14681.py">
+      <SubType>Code</SubType>
+      <Publish>False</Publish>
+    </None>
+    <Compile Include="if문\2884.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
