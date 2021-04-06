@@ -198,5 +198,8 @@
     <ClCompile Include="문자열\1193.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
+    <ClCompile Include="2869.c">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
