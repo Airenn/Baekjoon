@@ -4,7 +4,7 @@ int main()
 {
     int num1, num2, a, b, count = 0;
 
-    scanf("%d", &num1);
+    scanf_s("%d", &num1);
     num2 = num1;
 
     do

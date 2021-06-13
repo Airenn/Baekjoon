@@ -189,25 +189,28 @@
     <ClCompile Include="문자열\1316.c">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
-    <ClCompile Include="문자열\1712.c">
+    <ClCompile Include="기본 수학 1\1193.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
-    <ClCompile Include="문자열\2292.c">
+    <ClCompile Include="기본 수학 1\1712.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
-    <ClCompile Include="문자열\1193.c">
+    <ClCompile Include="기본 수학 1\2292.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
-    <ClCompile Include="2869.c">
+    <ClCompile Include="기본 수학 1\2775.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
-    <ClCompile Include="10250.c">
+    <ClCompile Include="기본 수학 1\2839.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
-    <ClCompile Include="2775.c">
+    <ClCompile Include="기본 수학 1\2869.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
-    <ClCompile Include="2839.c">
+    <ClCompile Include="기본 수학 1\10250.c">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본 수학 1\10757.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
   </ItemGroup>
