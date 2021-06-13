@@ -220,6 +220,7 @@
     <ClCompile Include="while문\1110.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="기본 수학 1\1011.c" />
     <ClCompile Include="기본 수학 1\10250.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

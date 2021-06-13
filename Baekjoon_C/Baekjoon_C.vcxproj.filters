@@ -213,5 +213,8 @@
     <ClCompile Include="10757.c">
       <Filter>소스 파일\기본 수학1</Filter>
     </ClCompile>
+    <ClCompile Include="기본 수학 1\1011.c">
+      <Filter>소스 파일\기본 수학1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
