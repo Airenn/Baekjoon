@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int N;
+int N; 
 int three, five; // 3kg, 5kg 봉투 갯수
 
 int main()
@@ -19,4 +19,7 @@ int main()
 				five++;
 			}
 		}
+		
+	
 }
+
