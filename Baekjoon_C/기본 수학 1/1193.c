@@ -6,7 +6,7 @@ int t = 0; // 대각선에서 몇 번째 위치
 
 int main()
 {
-	scanf("%d", &x);
+	scanf_s("%d", &x);
 
 	// 1. 몇 번째 대각선
 	for (; d * (d + 1) / 2 < x; d++) // 삼각수 공식 Tri(n) = Σk = n(n+1)/2
