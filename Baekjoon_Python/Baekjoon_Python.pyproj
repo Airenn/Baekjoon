@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>680874c4-926c-45d5-b872-9655c14e257d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>for문\10950.py</StartupFile>
+    <StartupFile>for문\test2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -70,9 +70,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="for문\10950.py">
+    <None Include="for문\10950.py">
       <SubType>Code</SubType>
-    </Compile>
+    </None>
     <None Include="for문\2739.py">
       <SubType>Code</SubType>
     </None>
@@ -80,6 +80,12 @@
       <SubType>Code</SubType>
       <Publish>False</Publish>
     </None>
+    <Compile Include="for문\test.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="for문\test2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="if문\2884.py">
       <SubType>Code</SubType>
     </Compile>
